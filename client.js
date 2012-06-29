@@ -1,1 +1,1 @@
-alert('a test tag!');
+alert('a test ref!');
