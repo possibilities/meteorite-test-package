@@ -1,1 +1,1 @@
-alert('a test package!');
+alert('a test branch!');
