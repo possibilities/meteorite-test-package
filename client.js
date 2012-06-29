@@ -1,1 +1,1 @@
-alert('a test branch!');
+alert('a test tag!');
